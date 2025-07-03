@@ -411,16 +411,24 @@ gantt
 
 <div align="center">
 
-<!-- Visitor Counter -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Tamilselvan-S-Cyber-Security.Tamilselvan-S-Cyber-Security&left_color=gray&right_color=blue&left_text=Profile%20Visitors" />
+  <!-- Visitor Counter -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tamilselvan-S-Cyber-Security.Tamilselvan-S-Cyber-Security&left_color=gray&right_color=blue&left_text=Profile%20Visitors" />
 
-<!-- GitHub Followers -->
-<img src="https://img.shields.io/github/followers/Tamilselvan-S-Cyber-Security?label=GitHub%20Followers&style=social" />
+  <!-- GitHub Followers -->
+  <img src="https://img.shields.io/github/followers/Tamilselvan-S-Cyber-Security?label=GitHub%20Followers&style=social" />
 
-<!-- GitHub Stars -->
-<img src="https://img.shields.io/github/starsTamilselvan-S-Cyber-Security?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social" />
+  <!-- GitHub Stars -->
+  <img src="https://img.shields.io/github/stars/Tamilselvan-S-Cyber-Security?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social" />
+
+  <br><br>
+
+  <!-- Touch to Navigate Link -->
+  <a href="https://tamilselvan-portfolio-s.web.app" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🔗%20Touch%20to%20Navigate-Portfolio-blue?style=for-the-badge&logo=google-chrome" alt="Navigate Button" />
+  </a>
 
 </div>
+
 
 ---
 
@@ -434,7 +442,7 @@ gantt
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developed+with+❤️+by+S.Tamilselvan;Ethical+Hacker+%26+Cybersecurity+Researcher;Building+the+Future+of+Secure+Technology" alt="Footer Typing SVG" />
 
-**⭐ Star this repository if you found it helpful!**
+
 
 </div>
 <dev align="center">
