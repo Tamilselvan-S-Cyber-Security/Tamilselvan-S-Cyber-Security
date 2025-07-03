@@ -8,8 +8,7 @@
   <!-- Profile Views Counter -->
   <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
   
-  <!-- Animated Wave -->
-  <img width="100%" src="images/1747757610488-photoaidcom-cropped.png"/>
+ 
 
 </div>
 
