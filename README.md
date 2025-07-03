@@ -257,7 +257,7 @@ graph TD
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamilselvan-S-Cyber-Security/Tamilselvan-S-Cyber-Security/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamilselvan-S-Cyber-SecurityTamilselvan-S-Cyber-Security/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Tamilselvan-S-Cyber-Security/Tamilselvan-S-Cyber-Security/output/github-snake-dark.svg" />
+    
   </picture>
 
   <!-- GitHub Activity Graph -->
@@ -435,5 +435,5 @@ gantt
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developed+with+❤️+by+S.Tamilselvan;Ethical+Hacker+%26+Cybersecurity+Researcher;Building+the+Future+of+Secure+Technology" alt="Footer Typing SVG" />
 
 **⭐ Star this repository if you found it helpful!**
-
+<img alt="github-snake" src="images/" />
 </div>
