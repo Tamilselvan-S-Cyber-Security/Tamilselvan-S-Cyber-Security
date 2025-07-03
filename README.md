@@ -353,17 +353,24 @@ pie title Development Focus Areas
 
 ```mermaid
 gantt
-    title 2024 Development Roadmap
+    title 📅 2024–2025 Development Roadmap
     dateFormat  YYYY-MM-DD
-    section Security Research
-    Advanced AI Security    :active, ai-sec, 2024-01-01, 2024-12-31
-    Quantum Cryptography    :quantum, 2024-06-01, 2024-12-31
-    section Development
-    Mobile Security Suite   :mobile, 2024-03-01, 2024-09-30
-    Web3 Security Tools     :web3, 2024-04-01, 2024-11-30
-    section Education
-    Cybersecurity Degree   :degree, 2023-06-01, 2027-05-31
+    axisFormat  %b %Y
+
+    section 🔐 Security Research
+    Advanced AI Security        :active, ai-sec, 2024-01-01, 2025-12-31
+    Quantum Cryptography        :quantum, 2024-06-01, 2025-12-31
+
+    section 💻 Development
+    Mobile Security Suite       :mobile, 2024-03-01, 2025-08-31
+    Web3 Security Tools         :web3, 2024-04-01, 2025-11-30
+    Red Team Toolkit            :redteam, 2025-06-01, 2025-12-01
+
+    section 🎓 Education
+    Cybersecurity Degree        :degree, 2023-06-01, 2027-05-31
+    Offensive Security Training :oscp, 2025-07-01, 2025-10-31
 ```
+
 
 ### 🚀 **Innovation Pipeline**
 
