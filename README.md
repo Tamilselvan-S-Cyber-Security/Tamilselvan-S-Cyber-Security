@@ -2,8 +2,9 @@
 
 <div align="center">
   
-  <!-- Animated Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Cybersecurity+Expert;Full+Stack+Developer;Technology+Creator;Bug+Hunter+%26+Security+Researcher" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🛡️+Ethical+Hacker+%7C+Cybersecurity+Expert;💻+Full+Stack+Developer;🚀+Technology+Creator;🔍+Bug+Hunter+%26+Security+Researcher" alt="Typing SVG" />
+</p>
   
   <!-- Profile Views Counter -->
   <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
