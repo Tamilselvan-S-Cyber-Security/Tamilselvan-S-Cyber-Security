@@ -50,31 +50,34 @@
 
 #### 🎯 **Project Distribution**
 ```mermaid
-pie title Project Distribution by Category
-    "Security Tools (103)" : 103
-    "Websites (86)" : 86
-    "Mobile Apps (39)" : 39
-    "Research Projects (80)" : 80
+pie title 📊 Project Distribution by Category
+    "🛡️ Security Tools (103)"      : 103
+    "🌐 Websites (86)"             : 86
+    "📱 Mobile Apps (39)"          : 39
+    "🧪 Research Projects (80)"    : 80
 ```
+
 
 #### 🛠️ **Technology Stack Usage**
 ```mermaid
-pie title Technology Stack Distribution
-    "Python (35%)" : 35
-    "JavaScript (25%)" : 25
-    "Security Tools (20%)" : 20
-    "Mobile Dev (12%)" : 12
-    "Others (8%)" : 8
+pie title 🧰 Technology Stack Distribution
+    "🐍 Python (35%)"            : 35
+    "🟨 JavaScript (25%)"        : 25
+    "🛡️ Security Tools (20%)"    : 20
+    "📱 Mobile Dev (12%)"        : 12
+    "⚙️ Others (8%)"             : 8
 ```
+
 
 #### 🎖️ **Achievement Breakdown**
 ```mermaid
-pie title Professional Achievements
-    "Bug Fixes (500+)" : 650
-    "Awards (200)" : 200
-    "Patents (150)" : 150
-    "Research Papers (15)" : 320
+pie title 🏆 Professional Achievements
+    "🐞 Bug Fixes (500+)"         : 650
+    "🏅 Awards (200)"             : 200
+    "📜 Patents (150)"            : 150
+    "🧠 Research Papers (155)"     : 320 
 ```
+
 
 </div>
 
