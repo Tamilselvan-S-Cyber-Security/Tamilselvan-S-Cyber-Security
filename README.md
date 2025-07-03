@@ -13,17 +13,15 @@
 
 </div>
 
-## 🚀 **About Me**
 
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║  🛡️  Ethical Hacker & Cybersecurity Specialist               ║
-║  💻  Full Stack Developer & Technology Creator               ║
-║  🔍  Bug Hunter & Security Researcher                        ║
-║  🎓  BE Cybersecurity Student (2023-2027)                    ║
-║  🌟  Innovative Technology Professional                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
+## 👨🏻‍💻 About Me
+
+- 🛡️ **Ethical Hacker & Cybersecurity Specialist**
+- 💻 **Full Stack Developer & Technology Creator**
+- 🔍 **Bug Hunter & Security Researcher**
+- 🎓 **B.E. Cybersecurity Student (2023–2027)**
+- 🌟 **Innovative Technology Professional**
+
 
 <div align="center">
   
