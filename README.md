@@ -26,7 +26,7 @@
 <div align="center">
   
   <!-- GitHub Stats Cards -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamilselvan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tamilselvan-S-Cyber-Security&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan-S-Cyber-Security&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff"/>
 
   
@@ -255,16 +255,16 @@ graph TD
 
   <!-- GitHub Snake Animation -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tamilselvan/tamilselvan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tamilselvan/tamilselvan/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tamilselvan/tamilselvan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Tamilselvan-S-Cyber-Security/Tamilselvan-S-Cyber-Security/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Tamilselvan-S-Cyber-SecurityTamilselvan-S-Cyber-Security/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Tamilselvan-S-Cyber-Security/Tamilselvan-S-Cyber-Security/output/github-snake-dark.svg" />
   </picture>
 
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilselvan&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tamilselvan-S-Cyber-Security&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=00F7FF&point=ffffff&area=true&hide_border=true" width="100%"/>
 
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tamilselvan&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tamilselvan-S-Cyber-Security&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6B6B&currStreakLabel=00F7FF" />
 
 </div>
 
@@ -273,7 +273,7 @@ graph TD
 <div align="center">
 
   <!-- Trophy Display -->
-  <img src="https://github-profile-trophy.vercel.app/?username=tamilselvan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tamilselvan-S-Cyber-Security&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
 
   ### 🎖️ **Professional Certifications**
 
@@ -412,13 +412,13 @@ gantt
 <div align="center">
 
 <!-- Visitor Counter -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=tamilselvan.tamilselvan&left_color=gray&right_color=blue&left_text=Profile%20Visitors" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Tamilselvan-S-Cyber-Security.Tamilselvan-S-Cyber-Security&left_color=gray&right_color=blue&left_text=Profile%20Visitors" />
 
 <!-- GitHub Followers -->
-<img src="https://img.shields.io/github/followers/tamilselvan?label=GitHub%20Followers&style=social" />
+<img src="https://img.shields.io/github/followers/Tamilselvan-S-Cyber-Security?label=GitHub%20Followers&style=social" />
 
 <!-- GitHub Stars -->
-<img src="https://img.shields.io/github/stars/tamilselvan?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social" />
+<img src="https://img.shields.io/github/starsTamilselvan-S-Cyber-Security?affiliations=OWNER%2CCOLLABORATOR&label=Total%20Stars&style=social" />
 
 </div>
 
