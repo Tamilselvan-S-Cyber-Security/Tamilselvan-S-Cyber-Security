@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ethical+Hacker+%7C+Cybersecurity+Expert;Full+Stack+Developer;Technology+Creator;Bug+Hunter+%26+Security+Researcher" alt="Typing SVG" />
   
   <!-- Profile Views Counter -->
-  <img src="1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
+  <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
   
   <!-- Animated Wave -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cybersecurity%20%26%20Technology%20Innovation&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
