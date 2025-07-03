@@ -70,10 +70,10 @@ pie title Technology Stack Distribution
 #### 🎖️ **Achievement Breakdown**
 ```mermaid
 pie title Professional Achievements
-    "Bug Fixes (500+)" : 500
-    "Awards (20)" : 20
-    "Patents (10)" : 10
-    "Research Papers (15)" : 15
+    "Bug Fixes (500+)" : 650
+    "Awards (200)" : 200
+    "Patents (150)" : 150
+    "Research Papers (15)" : 320
 ```
 
 </div>
