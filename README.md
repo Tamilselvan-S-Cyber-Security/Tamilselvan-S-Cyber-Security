@@ -435,5 +435,8 @@ gantt
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Developed+with+❤️+by+S.Tamilselvan;Ethical+Hacker+%26+Cybersecurity+Researcher;Building+the+Future+of+Secure+Technology" alt="Footer Typing SVG" />
 
 **⭐ Star this repository if you found it helpful!**
-<img alt="github-snake" src="images/" />
+
 </div>
+<dev align="center">
+<img alt="github-snake" src="https://github.com/Tamilselvan-S-Cyber-Security/Tamilselvan-S-Cyber-Security/blob/main/svg/github-snake-dark.svg" />
+</dev>
