@@ -27,9 +27,8 @@
   
   <!-- GitHub Stats Cards -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamilselvan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff"/>
-  <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilselvan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff&exclude_repo=some-other-repos-if-needed"/>
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamilselvan-S-Cyber-Security&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff"/>
+
   
 </div>
 
