@@ -444,7 +444,7 @@ gantt
 
 <div align="center">
 
-### 🎨 **Animated Footer**
+### 🎨 **Tamilselvan Footer**
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=fff&animation=fadeIn&fontAlignY=65"/>
 
