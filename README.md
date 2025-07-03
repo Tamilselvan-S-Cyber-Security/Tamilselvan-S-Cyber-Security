@@ -9,7 +9,7 @@
   <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
   
   <!-- Animated Wave -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cybersecurity%20%26%20Technology%20Innovation&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="images/1747757610488-photoaidcom-cropped.png"/>
 
 </div>
 
