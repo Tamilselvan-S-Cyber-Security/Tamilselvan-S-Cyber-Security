@@ -22,6 +22,7 @@
 - 🎓 **B.E. Cybersecurity Student (2023–2027)**
 - 🌟 **Innovative Technology Professional**
 
+<img src="images/images/3849223.jpg" alt="Profile Views" width="150" />
 
 <div align="center">
   
