@@ -8,11 +8,10 @@
   
   <!-- Profile Views Counter -->
   <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
-  
- 
-
 </div>
-
+<p align='right'>
+  <img src="images/3849223.jpg" alt="Profile Views" width="220" />
+</p>
 
 ## 👨🏻‍💻 About Me
 
@@ -22,7 +21,7 @@
 - 🎓 **B.E. Cybersecurity Student (2023–2027)**
 - 🌟 **Innovative Technology Professional**
 
-<img src="images/images/3849223.jpg" alt="Profile Views" width="150" />
+
 
 <div align="center">
   
