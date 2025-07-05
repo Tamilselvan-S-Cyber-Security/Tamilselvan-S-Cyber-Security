@@ -4,16 +4,16 @@
   
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=🛡️+Ethical+Hacker+%7C+Cybersecurity+Expert;💻+Full+Stack+Developer;🚀+Technology+Creator;🔍+Bug+Hunter+%26+Security+Researcher" alt="Typing SVG" />
+
+  <!-- Profile Views Counter -->
+  <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
+</div>
+
 </p>
   <p style="overflow: hidden; padding: 20px;">
   <img src="images/3849223.jpg" align="right" alt="Profile Views" width="220" style="margin-left: 20px;" />
   <img src="images/Screenshot 2025-07-05 153344-Photoroom.png" align="left" alt="Profile Views" width="220" style="margin-right: 20px;" />
 </p>
-  <!-- Profile Views Counter -->
-  <img src="images/1747757610488-photoaidcom-cropped.png" alt="Profile Views" />
-</div>
-
-
 
 &nbsp;  
 &nbsp;
