@@ -13,6 +13,9 @@
   <img src="images/3849223.jpg" alt="Profile Views" width="220" />
 </p>
 
+<p align='left'>
+  <img src="images/Screenshot 2025-07-05 153344-Photoroom.png" alt="Profile Views" width="220" />
+</p>
 ## 👨🏻‍💻 About Me
 
 - 🛡️ **Ethical Hacker & Cybersecurity Specialist**
