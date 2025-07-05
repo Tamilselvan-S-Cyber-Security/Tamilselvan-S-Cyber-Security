@@ -12,7 +12,7 @@
 </p>
   <p style="overflow: hidden; padding: 20px;">
   <img src="images/3849223.jpg" align="right" alt="Profile Views" width="220" style="margin-left: 20px;" />
-  <img src="images/Screenshot 2025-07-05 153344-Photoroom.png" align="left" alt="Profile Views" width="220" style="margin-right: 20px;" />
+ 
 </p>
 
 &nbsp;  
@@ -254,6 +254,12 @@ graph TD
 | 🚀 Future Tech | 20+ | 85% | 4.6/5 ⭐ | 10+ Patents |
 
 </div>
+</p>
+  <p style="overflow: hidden; padding: 20px;">
+  <img src="images/Screenshot 2025-07-05 153344-Photoroom.png" align="left" alt="Profile Views" width="220" style="margin-right: 20px;" />
+ 
+</p>
+
 
 ## 🎨 **GitHub Activity Graph**
 
